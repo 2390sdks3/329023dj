@@ -20,7 +20,7 @@ const sport_id_map = {
 
 const futbolMatches = [
   {
-    "time": "00:30",
+    "time": "00:35",
     "league": "Paraguay. Premier League.",
     "title": "Atletico Tembetary - Deportivo Recoleta",
     "url": "/event.html?id=androstreamlivech254612206",
